@@ -1,4 +1,4 @@
-# 👤 OpenCV Facial Recognition & Computer Vision System
+# 👤  Facial Recognition System
 
 A Python-based computer vision project built using OpenCV. This project demonstrates real-time face and eye detection along with image, video, camera, color, shape, blur, edge detection, and frame-processing operations.
 
